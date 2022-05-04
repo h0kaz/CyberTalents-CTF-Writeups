@@ -1,4 +1,4 @@
-# General Infoemation Solurions
+# General Information Solutions
 ![ms-icon-1200x1200](https://user-images.githubusercontent.com/93363648/166522251-c38311bc-38a2-42a0-a39b-3acb20f9e233.png)
  ## 1- Challenge Name: Business Gathering
 **I am a huge cyber security conference that run every year in three places : San Francisco, Singapore and Lately AbuDhabi. Who am I ? No spaces in answering**
